@@ -1,0 +1,17 @@
+{
+  "name": "git-clone-zucchinidev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "git-clone.js",
+  "bin": "git-clone.js", // Allows to run as a cli app
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrea Zucchini <azga84@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "minimist": "^1.2.0"
+  }
+}
